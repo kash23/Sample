@@ -1,0 +1,17 @@
+*{
+    margin: none;
+    background-color: bisque;
+}
+
+.port{
+    width:fit-content;
+    margin: auto;
+}
+.AK{
+    width: 350px;
+    border-radius: 10px;
+}
+.name{
+    text-align: center;
+    color: rgba(113, 0, 0, 0.992);
+}
